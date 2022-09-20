@@ -2,84 +2,20 @@
 <html lang="en">
 
 <head>
-	<style>
-		body {
-			background: rgb(212, 227, 239);
-		}
-		
-		[data-tab-info] {
-			display: none;
-		}
-		
-		.active[data-tab-info] {
-			display: block;
-		}
-		
-		.tab-content {
-			font-size: 30px;
-			font-family: sans-serif;
-			font-weight: bold;
-			color: rgb(82, 75, 75);
-		}
-		
-		.tabs {
-			font-size: 40px;
-			color: rgb(255, 255, 255);
-			display: flex;
-			margin: 0;
-		}
-		
-		.tabs span {
-			background: rgb(83, 106, 236);
-			padding: 10px;
-			border: 1px solid rgb(255, 255, 255);
-		}
-		
-		.tabs span:hover {
-			background: rgb(164, 166, 244);
-			cursor: pointer;
-			color: black;
-		}
-	</style>
+	<title>Sanchari Biswas Portfolio</title>
+
+	<link rel="stylesheet" href="menu.css">
 </head>
 
 <body>
-	<div class="tabs">
-		<span data-tab-value="#home">Home</span>
-		<span data-tab-value="#about">About Me</span>
-		<span data-tab-value="#works">My Works</span>
-	</div>
-
-	<div class="tab-content">
-		<div class="tabs__tab active" id="home" data-tab-info>
-			<p>Welcome to Sanchari Biswas's homepage.</p>
-
-		</div>
-		<div class="tabs__tab" id="about" data-tab-info>
-			<p>Hello Everyone.</p>
-
-		</div>
-		<div class="tabs__tab" id="works" data-tab-info>
-			<p>Still In Progress.</p>
-
-		</div>
-	</div>
-	<script type="text/javascript">
-		const tabs = document.querySelectorAll('[data-tab-value]')
-		const tabInfos = document.querySelectorAll('[data-tab-info]')
-
-		tabs.forEach(tab => {
-			tab.addEventListener('click', () => {
-				const target = document
-					.querySelector(tab.dataset.tabValue);
-
-				tabInfos.forEach(tabInfo => {
-					tabInfo.classList.remove('active')
-				})
-				target.classList.add('active');
-			})
-		})
-	</script>
+	<!-- Navbar -->
+	<div class="topnav">
+		<a class="active" href="#home">Home</a>
+		<a href="#news">Bio</a>
+		<a href="#contact">Publications</a>
+		<a href="#about">Contact</a>
+	  </div>
+	
 </body>
 
 </html>
