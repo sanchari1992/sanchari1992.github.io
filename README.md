@@ -30,11 +30,9 @@ Throughout my academic and professional life, I've had the privilege to collabor
 
 <!-- Social Links -->
 <div align="center">
-  <a href="mailto:leonardobravoricapa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/leonardo-bravo-4120b8228/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-  <a href="https://www.instagram.com/leonm.br"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
-  <a href="https://x.com/leonm_br"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
-  <a href="https://www.kaggle.com/defaltal1x"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&color=black" /></a>
+  <a href="mailto:sanchari.shrina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="https://www.linkedin.com/in/sanchari/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+  <a href="https://www.instagram.com/cryptic.shrina/"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
  <!-- <a href="https://aal1x-jobhub.github.io/jobhub-landing/"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a> -->
 </div>
 
