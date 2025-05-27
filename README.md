@@ -90,17 +90,17 @@ Throughout my academic and professional life, I've had the privilege to collabor
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">El Molino</h3>
+      <h3 align="center">Structured Insight Generation from Mental Health Counseling Reviews</h3>
       <div align="center">
-        <a href="https://github.com/ALX-13/El-Molino" target="_blank">
+        <a href="https://github.com/sanchari1992/RAG-LLM-Project" target="_blank">
           <img src="https://github.com/ALX-13/El-Molino/blob/master/assets/images/logo.png" width="500" style="object-fit: cover;" alt="El Molino">
         </a>
         <p>
-          <a href="https://github.com/ALX-13/El-Molino" target="_blank">
+          <a href="https://github.com/sanchari1992/RAG-LLM-Project" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
           </a>
         </p>
-        <p><strong>EL MOLINO</strong> es un juego desarrollado en <strong>C++</strong> que combina estrategias, decisiones e incluye gráficos de calidad sorprendente para una aplicación de consola.</p>
+        <p><strong>Structured Insight Generation from Mental Health Counseling Reviews</strong> explores the use of various database structures and prompting techniques with GPT-based models to generate insights from mental health counseling reviews. The project is organized into multiple folders and scripts, each with specific tasks, from data cleaning to API implementation.</p>
       </div>
     </td>
   </tr>
@@ -115,11 +115,11 @@ Throughout my academic and professional life, I've had the privilege to collabor
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ALX-13&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALX-13&theme=nightowl&hide_border=false" alt="ALX-13 streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sanchari1992&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchari1992&theme=nightowl&hide_border=false" alt="sanchari1992 streak" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ALX-13&theme=nightowl&hide_border=false&langs_count=10"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sanchari1992&theme=nightowl&hide_border=false&langs_count=10"/>
 </td>
 </tr>
 </table>
@@ -130,7 +130,7 @@ Throughout my academic and professional life, I've had the privilege to collabor
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/ALX-13/count.svg">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/sanchari1992/count.svg">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
 <br>
