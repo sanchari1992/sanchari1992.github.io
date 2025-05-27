@@ -4,7 +4,7 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+<img align="right" width=200px alt="Unicorn" src="20240401_194535.jpg"/>
 
 With a Master’s in Computer Science (2024) and Telecommunications, I have worked across AI research, network systems, and software engineering—bridging LLMs, RAG, and databases with real-world applications.
 
