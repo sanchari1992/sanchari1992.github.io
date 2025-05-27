@@ -1,19 +1,24 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://github.com/ALX-13">ALX-13</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm </b><a href="https://github.com/sanchari1992">Sanchari Biswas</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
 <img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
-I am a **Computer Science** student, currently halfway through my degree, I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer for the restaurant industry, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
+With a Master’s in Computer Science (2024) and Telecommunications, I have worked across AI research, network systems, and software engineering—bridging LLMs, RAG, and databases with real-world applications.
+
+As a Graduate Teaching Assistant at Temple University, I have mentored students in Java, cybersecurity, computer networks, and capstone projects, fostering an interactive and engaging learning experience. 
+
+Throughout my academic and professional life, I've had the privilege to collaborate with industry leaders. I contributed my expertise to Comcast's Smart Network Platform team, ensured global network stability at United Airlines within their Global Network Operation Center, and engaged in a transformative Mainframe (COBOL) based insurance project during my tenure at Tata Consultancy Services.
+
 - 📚 I’m currently learning ...
-  - *Angular*
-  - *TypeScript*
+  - *Artificial Intelligence*
+  - *Machine Learning*
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
-- Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🎸 playing musical instruments.
-- 📫 Reach out to me at: <a href="leonardobravoricapa@gmail.com">leonardobravoricapa@gmail.com</a>
+- Outside tech, I enjoy socializing with friends, reading fiction novels, 🎵 listening to music, and I also love 🎸 playing musical instruments.
+- 📫 Reach out to me at: <a href="sanchari.shrina@gmail.com">sanchari.shrina@gmail.com</a>
 <br>
 
 <!-- Profile Trophies -->
