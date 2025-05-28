@@ -24,7 +24,7 @@ Throughout my academic and professional life, I've had the privilege to collabor
 <!-- Profile Trophies -->
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=ALX-13&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+        <img src="https://github-profile-trophy.vercel.app/?username=sanchari1992&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
     </a>
 </div>     
 
@@ -93,7 +93,7 @@ Throughout my academic and professional life, I've had the privilege to collabor
       <h3 align="center">Structured Insight Generation from Mental Health Counseling Reviews</h3>
       <div align="center">
         <a href="https://github.com/sanchari1992/RAG-LLM-Project" target="_blank">
-          <img src="https://github.com/ALX-13/El-Molino/blob/master/assets/images/logo.png" width="500" style="object-fit: cover;" alt="El Molino">
+          <img src="https://github.com/sanchari1992/El-Molino/blob/master/assets/images/logo.png" width="500" style="object-fit: cover;" alt="El Molino">
         </a>
         <p>
           <a href="https://github.com/sanchari1992/RAG-LLM-Project" target="_blank">
