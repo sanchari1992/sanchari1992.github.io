@@ -38,6 +38,28 @@ Throughout my academic and professional life, I've had the privilege to collabor
 
 <br>
 
+<a href="https://github.com/sanchari1992/sanchari1992/blob/main/publication1.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/View-PDF-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
+</a>
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">&nbsp;***Publications***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<ul>
+  <li>
+    <strong>Structured Insight Generation from Mental Health Counseling Reviews: A GPT
+Prompt Engineering Enhanced Approach</strong> <br>
+    <a href="https://github.com/sanchari1992/sanchari1992/blob/main/publication1.pdf" target="_blank">📄 View PDF</a>
+  </li>
+  <br>
+  <li>
+    <strong>Enhancing ER Diagram Comprehension via Prompt Engineering</strong> <br>
+    <a href="https://github.com/sanchari1992/sanchari1992/blob/main/publication2.pdf" target="_blank">📄 View PDF</a>
+  </li>
+</ul>
+
+
+
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
