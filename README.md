@@ -38,10 +38,6 @@ Throughout my academic and professional life, I've had the privilege to collabor
 
 <br>
 
-<a href="https://github.com/sanchari1992/sanchari1992/blob/main/publication1.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/View-PDF-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
-</a>
-
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">&nbsp;***Publications & Reports***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -49,27 +45,37 @@ Throughout my academic and professional life, I've had the privilege to collabor
   <li>
     <strong>Structured Insight Generation from Mental Health Counseling Reviews: A GPT
 Prompt Engineering Enhanced Approach</strong> <br>
-    <a href="https://github.com/sanchari1992/sanchari1992.github.io/blob/main/Structured%20Insight%20Generation%20from%20Mental%20Health%20Counseling%20Reviews.pdf" target="_blank">📄 View PDF</a>
+    <a href="https://github.com/sanchari1992/sanchari1992.github.io/blob/main/Structured%20Insight%20Generation%20from%20Mental%20Health%20Counseling%20Reviews.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/View-PDF-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
+    </a>
   </li>
   <br>
   <li>
     <strong>Design and Implementation of a Strong Representation System for Network Policies</strong> <br>
-    <a href="https://github.com/sanchari1992/sanchari1992.github.io/blob/main/Design_and_Implementation_of_a_Strong_Representation_System_for_Network_Policies.pdf" target="_blank">📄 View PDF</a>
+    <a href="https://github.com/sanchari1992/sanchari1992.github.io/blob/main/Design_and_Implementation_of_a_Strong_Representation_System_for_Network_Policies.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/View-PDF-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
+    </a>
   </li>
   <br>
   <li>
     <strong>Trait Prediction using Deep Learning</strong> <br>
-    <a href="https://github.com/sanchari1992/sanchari1992.github.io/blob/main/Trait_Prediction_using_Deep_Learning.pdf" target="_blank">📄 View PDF</a>
+    <a href="https://github.com/sanchari1992/sanchari1992.github.io/blob/main/Trait_Prediction_using_Deep_Learning.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/View-PDF-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
+    </a>
   </li>
   <br>
   <li>
     <strong>A Comparison of Various Forecasting Models in Predicting Indian Rainfall from Spatio-temporal Data</strong> <br>
-    <a href="https://github.com/sanchari1992/sanchari1992.github.io/blob/main/Rainfall_Prediction_Sanchari_Biswas%20(1).pdf" target="_blank">📄 View PDF</a>
+    <a href="https://github.com/sanchari1992/sanchari1992.github.io/blob/main/Rainfall_Prediction_Sanchari_Biswas%20(1).pdf" target="_blank">
+      <img src="https://img.shields.io/badge/View-PDF-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
+    </a>
   </li>
   <br>
   <li>
     <strong>Virtual Assistants in Emergency Response Systems</strong> <br>
-    <a href="https://github.com/sanchari1992/sanchari1992.github.io/blob/main/Network_and_Information_Security_Final_Report-2.pdf" target="_blank">📄 View PDF</a>
+    <a href="https://github.com/sanchari1992/sanchari1992.github.io/blob/main/Network_and_Information_Security_Final_Report-2.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/View-PDF-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
+    </a>
   </li>
 </ul>
 
