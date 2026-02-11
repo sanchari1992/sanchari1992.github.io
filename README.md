@@ -1,8 +1,6 @@
 # Sanchari Biswas
 
-<p align="center">
-  <img src="propic.jpg" alt="Sanchari Biswas" width="160" style="border-radius: 50%;" />
-</p>
+<img src="propic.jpg" alt="Sanchari Biswas" width="180" align="right" style="border-radius: 12px;" />
 
 AI & Systems Engineer | LLM & RAG Researcher | Network Systems Specialist
 
