@@ -1,5 +1,7 @@
 # Sanchari Biswas
 
+<img src="propic.jpg" alt="Sanchari Biswas" width="180" align="right" style="border-radius: 12px;" />
+
 AI & Systems Engineer | LLM & RAG Researcher | Network Systems Specialist
 
 I design intelligent systems that bridge large language models, structured data, and real-world infrastructure.  
