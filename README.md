@@ -1,182 +1,126 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://www.linkedin.com/in/sanchari/">Sanchari Biswas</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<br>
+# Sanchari Biswas
 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
+**AI & Systems Engineer | LLM & RAG Researcher | Network Systems Specialist**
 
-<img align="right" width=200px alt="Unicorn" src="20240401_194535.jpg"/>
+I design intelligent systems that bridge large language models, structured data, and real-world infrastructure.  
+My work spans prompt engineering, retrieval-augmented generation (RAG), network policy modeling, distributed systems, and production-scale platforms.
 
-With a Master’s in Computer Science (2024) and Telecommunications, I have worked across AI research, network systems, and software engineering—bridging LLMs, RAG, and databases with real-world applications.
+With a Master’s in Computer Science (2024) and a background in Telecommunications, I bring experience across AI research, enterprise network systems, and backend engineering.
 
-As a Graduate Teaching Assistant at Temple University, I have mentored students in Java, cybersecurity, computer networks, and capstone projects, fostering an interactive and engaging learning experience. 
+---
 
-Throughout my academic and professional life, I've had the privilege to collaborate with industry leaders. I contributed my expertise to Comcast's Smart Network Platform team, ensured global network stability at United Airlines within their Global Network Operation Center, and engaged in a transformative Mainframe (COBOL) based insurance project during my tenure at Tata Consultancy Services.
+## 🔍 Current Focus
 
-- 📚 I’m currently learning ...
-  - *Artificial Intelligence*
-  - *Machine Learning*
-- 🚀 I’m eager to join new projects.
-- ✔ Feel free to ask me anything! I’m motivated to help others.
-- Outside tech, I enjoy socializing with friends, reading fiction novels, 🎵 listening to music, and I also love 🎸 playing musical instruments.
-- 📫 Reach out to me at: <a href="sanchari.shrina@gmail.com">sanchari.shrina@gmail.com</a>
-<br>
+- LLM reliability & hallucination detection in black-box systems  
+- Formal consistency validation for AI outputs  
+- Retrieval-augmented generation architectures  
+- Structured knowledge integration with large language models  
 
-<!-- Profile Trophies -->
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=sanchari1992&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
-</div>     
+---
 
-<!-- Social Links -->
-<div align="center">
-  <a href="mailto:sanchari.shrina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/sanchari/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-  <a href="https://www.instagram.com/cryptic.shrina/"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
- <!-- <a href="https://aal1x-jobhub.github.io/jobhub-landing/"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a> -->
-</div>
+## 💼 Professional Experience
 
-<br>
+### Graduate Teaching Assistant — Temple University
+- Mentored students in **Java programming, cybersecurity, computer networks, and capstone projects**
+- Designed interactive learning environments emphasizing conceptual clarity and applied systems thinking
+- Guided student teams through system design and project implementation
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">&nbsp;***Publications & Reports***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### Comcast — Smart Network Platform Team
+- Contributed to scalable backend systems supporting high-volume network infrastructure
+- Worked on integration and reliability components within large-scale distributed environments
 
-<ul>
-  <li>
-    <strong>Structured Insight Generation from Mental Health Counseling Reviews: A GPT
-Prompt Engineering Enhanced Approach</strong> <br>
-    <a href="https://github.com/sanchari1992/sanchari1992.github.io/raw/main/Structured%20Insight%20Generation%20from%20Mental%20Health%20Counseling%20Reviews.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/View-PDF-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
-    </a>
-  </li>
-  <br>
-  <li>
-    <strong>Design and Implementation of a Strong Representation System for Network Policies</strong> <br>
-    <a href="https://github.com/sanchari1992/sanchari1992.github.io/raw/main/Design_and_Implementation_of_a_Strong_Representation_System_for_Network_Policies.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/View-PDF-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
-    </a>
-  </li>
-  <br>
-  <li>
-    <strong>Trait Prediction using Deep Learning</strong> <br>
-    <a href="https://github.com/sanchari1992/sanchari1992.github.io/raw/main/Trait_Prediction_using_Deep_Learning.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/View-PDF-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
-    </a>
-  </li>
-  <br>
-  <li>
-    <strong>A Comparison of Various Forecasting Models in Predicting Indian Rainfall from Spatio-temporal Data</strong> <br>
-    <a href="https://github.com/sanchari1992/sanchari1992.github.io/raw/main/Rainfall_Prediction_Sanchari_Biswas%20(1).pdf" target="_blank">
-      <img src="https://img.shields.io/badge/View-PDF-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
-    </a>
-  </li>
-  <br>
-  <li>
-    <strong>Virtual Assistants in Emergency Response Systems</strong> <br>
-    <a href="https://github.com/sanchari1992/sanchari1992.github.io/raw/main/Network_and_Information_Security_Final_Report-2.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/View-PDF-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
-    </a>
-  </li>
-</ul>
+### United Airlines — Global Network Operations Center
+- Ensured stability and real-time monitoring of global enterprise network systems
+- Participated in incident response and operational reliability workflows
 
+### Tata Consultancy Services — Insurance Systems (Mainframe / COBOL)
+- Contributed to enterprise-scale insurance processing systems
+- Worked on legacy system logic, structured transaction flows, and system modernization efforts
 
+---
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🔬 Research & Publications
 
-###### Languages & Syntax:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-<!-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp; -->
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+### Structured Insight Generation from Mental Health Counseling Reviews  
+*GPT Prompt Engineering Enhanced Approach*  
+- Designed a structured insight extraction pipeline using GPT-based models  
+- Implemented prompt optimization techniques to improve semantic consistency  
+- Integrated database-backed insight storage and retrieval  
+📄 [Read Paper](https://github.com/sanchari1992/sanchari1992.github.io/raw/main/Structured%20Insight%20Generation%20from%20Mental%20Health%20Counseling%20Reviews.pdf)
 
-<img align="right" width=310px alt="Unicorn" src="https://media1.tenor.com/m/XwmLgqDr19YAAAAC/colin-ritman-bandersnatch.gif"/>
+---
 
-###### Frontend Development:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-<!-- ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp; -->
-<!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp; -->
+### Design and Implementation of a Strong Representation System for Network Policies  
+- Developed formal representation models for network policy systems  
+📄 [Read Paper](https://github.com/sanchari1992/sanchari1992.github.io/raw/main/Design_and_Implementation_of_a_Strong_Representation_System_for_Network_Policies.pdf)
 
-<!-- ###### Backend & Frameworks:
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
-![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) -->
+---
 
-###### Deployment & Cloud Services:
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-<!-- ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)&nbsp; -->
+### Trait Prediction using Deep Learning  
+📄 [Read Paper](https://github.com/sanchari1992/sanchari1992.github.io/raw/main/Trait_Prediction_using_Deep_Learning.pdf)
 
-<!-- #### ML/DL -->
+---
 
-###### Database Management:
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+### Forecasting Indian Rainfall using Spatio-temporal Models  
+📄 [Read Paper](https://github.com/sanchari1992/sanchari1992.github.io/raw/main/Rainfall_Prediction_Sanchari_Biswas%20(1).pdf)
 
-###### Development Tools:
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+---
 
-###### Development Environments:
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
-<br>
-<br>
+### Virtual Assistants in Emergency Response Systems  
+📄 [Read Report](https://github.com/sanchari1992/sanchari1992.github.io/raw/main/Network_and_Information_Security_Final_Report-2.pdf)
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Structured Insight Generation from Mental Health Counseling Reviews</h3>
-      <div align="center">
-        <a href="https://github.com/sanchari1992/RAG-LLM-Project" target="_blank">
-          <img src="https://github.com/sanchari1992/El-Molino/blob/master/assets/images/logo.png" width="500" style="object-fit: cover;" alt="El Molino">
-        </a>
-        <p>
-          <a href="https://github.com/sanchari1992/RAG-LLM-Project" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
-          </a>
-        </p>
-        <p><strong>Structured Insight Generation from Mental Health Counseling Reviews</strong> explores the use of various database structures and prompting techniques with GPT-based models to generate insights from mental health counseling reviews. The project is organized into multiple folders and scripts, each with specific tasks, from data cleaning to API implementation.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-<br>
+## 🛠 Core Competencies
 
-<!-- Github Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<p align="center">
-<table align="center">
-<tr>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sanchari1992&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchari1992&theme=nightowl&hide_border=false" alt="sanchari1992 streak" />
-</td>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sanchari1992&theme=nightowl&hide_border=false&langs_count=10"/>
-</td>
-</tr>
-</table>
-</p>
-<br>
+### AI & Data Systems
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Deep Learning & NLP
+- Insight Extraction Pipelines
 
-<!-- Visitor Counter -->
-<br>
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/sanchari1992/count.svg">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-</div>
-<br>
-<br>
+### Systems & Networks
+- Network Policy Modeling
+- Distributed Systems
+- Network Monitoring & Operations
+- Infrastructure Reliability
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+### Backend & Data Engineering
+- Java, Python  
+- PostgreSQL, Microsoft SQL Server, MongoDB  
+- Docker  
+
+### Tools & Environments
+- Git & GitHub  
+- IntelliJ IDEA, VS Code, Visual Studio  
+- Postman  
+
+---
+
+## 🎓 Education
+
+**Master of Science in Computer Science (2024)**  
+Temple University  
+
+Background in Telecommunications & Network Systems
+
+---
+
+## 🤝 Open To
+
+- AI / LLM Research Engineering roles  
+- Applied AI systems development  
+- Research collaborations in LLM reliability & structured reasoning  
+- Systems & infrastructure engineering roles  
+
+---
+
+## 📫 Contact
+
+- Email: sanchari.shrina@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/sanchari/
+
+---
+
+_Interested in building AI systems that are intelligent, reliable, and structurally grounded._
