@@ -1,6 +1,6 @@
 # Sanchari Biswas
 
-**AI & Systems Engineer | LLM & RAG Researcher | Network Systems Specialist**
+AI & Systems Engineer | LLM & RAG Researcher | Network Systems Specialist
 
 I design intelligent systems that bridge large language models, structured data, and real-world infrastructure.  
 My work spans prompt engineering, retrieval-augmented generation (RAG), network policy modeling, distributed systems, and production-scale platforms.
