@@ -20,6 +20,32 @@ With a Master’s in Computer Science (2024) and a background in Telecommunicati
 
 ## 💼 Professional Experience
 
+### Adjunct Instructor — Temple University
+Course Name: CIS 4378 - Computer and Network Security
+
+- Created and taught lecture slides, labs, and assignments introducing vulnerabilities in modern systems and networks
+- Designed hands-on exercises covering cryptography, VPN configuration, firewalls, intrusion detection systems, Kerberos authentication, and secure coding practices.
+- Guided students in analyzing real-world case studies of network breaches and evaluating countermeasures
+
+Course Name : CIS 5304 - Network Technologies
+
+- Developed and delivered lecture materials and lab-based assignments on network design and operations
+- Covered LAN/WAN design, Internet architecture, VPNs, wireless technologies, firewalls, and Application Layer protocols with applied case studies
+- Created simulation-based labs (e.g., configuring secure networks, firewall rules, VPN tunnels) to give students practical skills alongside theoretical knowledge
+- Mentored graduate students in applying secure networking principles to enterprise-level architectures
+
+Course Name: CIS 5107 – Computer Systems Security and Privacy
+
+- Developed and taught an online asynchronous graduate course on computer systems security and information privacy, emphasizing secure system design and controlled information sharing
+- Created recorded lectures, assignments, and assessments covering access control models, software security, privacy principles, and system protection against malicious and accidental threats
+- Guided students in critically analyzing real-world secure systems and evaluating security and privacy trade-offs in modern computing environments
+
+### Adjunct Instructor — Delaware County Community College
+- Designed and delivered lecture materials, labs, and assignments covering hardware, operating systems, databases, networking, programming fundamentals, cybersecurity, and emerging digital technologies
+- Created hands-on lab exercises using productivity software (Word, Excel, Access, PowerPoint) and system utilities for file management, maintenance, and security
+- Developed project-based assessments such as Internet research, e-Portfolio creation, and collaborative digital communication tasks
+- Applied active learning techniques to make abstract IT concepts accessible to students with diverse technical backgrounds
+
 ### Graduate Teaching Assistant — Temple University
 - Mentored students in **Java programming, cybersecurity, computer networks, and capstone projects**
 - Designed interactive learning environments emphasizing conceptual clarity and applied systems thinking
@@ -101,20 +127,17 @@ With a Master’s in Computer Science (2024) and a background in Telecommunicati
 ## 🎓 Education
 
 **Master of Science in Computer Science (2024)**  
-Temple University  
+Temple University, Philadelphia  
 
-Background in Telecommunications & Network Systems
 
----
+**Master of Science in Telecommunications Engineering (2017)**  
+University of Maryland, College Park
 
-## 🤝 Open To
-
-- AI / LLM Research Engineering roles  
-- Applied AI systems development  
-- Research collaborations in LLM reliability & structured reasoning  
-- Systems & infrastructure engineering roles  
+**Bachelor of Technology in Electronics and Communications Engineering (2013)**  
+WBUT, Kolkata, India
 
 ---
+
 
 ## 📫 Contact
 
